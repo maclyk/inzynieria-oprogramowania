@@ -1,2 +1,3 @@
 # inzynieria-oprogramowania
-Zadanie na inżynierię oprogramowania do Pana Remigiusza Samborskiego
+Zadanie na przedmiot inżynieria oprogramowania do Pana magistra inżyniera Remigiusza Samborskiego
+
