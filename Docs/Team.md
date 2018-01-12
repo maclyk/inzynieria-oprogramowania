@@ -1,4 +1,4 @@
 Maciej Łykowski
-Oskar Kowalczyk
+Oskar Bobik Kowalczyk
 Wiktoria Sztobryn
 WSH 2 rok informatyka niestacjonarna
